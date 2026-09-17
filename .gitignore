@@ -18,7 +18,7 @@ out/
 Thumbs.db
 desktop.ini
 
-# --- local/build artifacts (managed by Clean-And-Replace-GitHub.ps1) ---
+# --- local/build artifacts ---
 /build/
 /build-*/
 /build_*/
@@ -74,4 +74,4 @@ CMakeFiles/
 .env.*
 credentials*
 secrets*
-# --- end managed block ---
+# --- end local/build artifacts ---

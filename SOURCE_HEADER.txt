@@ -2,12 +2,12 @@ Enchanting Freedom AE - source file header
 
 Use this at the top of every source file you create:
 
-// Copyright (C) 2026 <COMPUTER_NAME>
+// Copyright (C) 2026 DeadOnKeyboard
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 For PowerShell/CMake files use:
 
-# Copyright (C) 2026 <COMPUTER_NAME>
+# Copyright (C) 2026 DeadOnKeyboard
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 The full GPL-3.0-or-later license is provided in LICENSE.

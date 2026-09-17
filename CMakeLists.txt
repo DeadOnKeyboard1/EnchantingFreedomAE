@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-# Copyright (C) 2026 <COMPUTER_NAME>
+# Copyright (C) 2026 DeadOnKeyboard
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 project(

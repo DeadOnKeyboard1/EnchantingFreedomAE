@@ -1,4 +1,4 @@
-// Copyright (C) 2026 <COMPUTER_NAME>
+// Copyright (C) 2026 DeadOnKeyboard
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 #include "Config.h"
@@ -7,7 +7,7 @@
 SKSEPluginInfo(
 	.Version = REL::Version{ 1, 2, 1, 0 },
 	.Name = "EnchantingFreedomAE",
-	.Author = "<COMPUTER_NAME>",
+	.Author = "DeadOnKeyboard",
 	.StructCompatibility = SKSE::StructCompatibility::Independent,
 	.RuntimeCompatibility = SKSE::VersionIndependence::AddressLibrary,
 	.MinimumSKSEVersion = REL::Version{ 2, 0, 20, 0 }

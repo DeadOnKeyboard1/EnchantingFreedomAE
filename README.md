@@ -92,6 +92,6 @@ Because the restriction removal works on loaded enchantment records, enchantment
 
 ## License
 
-Copyright (C) 2026 <COMPUTER_NAME>
+Copyright (C) 2026 DeadOnKeyboard
 
 Enchanting Freedom AE is licensed under GNU GPL version 3 or, at your option, any later version. See `LICENSE` and `NOTICE.md`.

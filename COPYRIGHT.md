@@ -2,7 +2,7 @@
 
 Enchanting Freedom AE
 
-Copyright (C) 2026 <COMPUTER_NAME>
+Copyright (C) 2026 DeadOnKeyboard
 
 All original source code in this repository is licensed under the
 GNU General Public License version 3 or, at your option, any later version.

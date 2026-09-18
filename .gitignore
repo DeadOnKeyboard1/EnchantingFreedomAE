@@ -1,0 +1,70 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# CMake / Ninja
+build/
+build-*/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+.ninja_deps
+.ninja_log
+build.ninja
+rules.ninja
+
+# vcpkg generated files
+vcpkg_installed/
+.vcpkg-root/
+
+# Build output
+dist/
+release/
+staging/
+bin/
+obj/
+x64/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# Compiled binaries / debug files
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+
+# Logs / temporary output
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+
+# Local tooling / generated patch packages
+_toolchain/
+_Backups/
+*_Backups/
+*.zip
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
